@@ -52,14 +52,75 @@ Systems Neuroscience Laboratory consists of a series of laboratories designed to
 {{< anchor "Grading" >}}{{< /anchor >}}Grading
 ----------------------------------------------
 
-| ASSIGNMENTS | PERCENTAGES |
-| --- | --- |
-| In-lab quizzes (no make-ups allowed) | 30% |
-| MATLAB® tutorials | 10% |
-| 2 research reports (~10 pages double spaced) | 40% |
-| Laboratory notebook | 10% |
-| Participation: In-lab performance | 6% |
-| Participation: Recitation performance | 4% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ASSIGNMENTS
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+In-lab quizzes (no make-ups allowed)
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+MATLAB® tutorials
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2 research reports (~10 pages double spaced)
+{{< tdclose >}}
+{{< tdopen >}}
+40%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Laboratory notebook
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Participation: In-lab performance
+{{< tdclose >}}
+{{< tdopen >}}
+6%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Participation: Recitation performance
+{{< tdclose >}}
+{{< tdopen >}}
+4%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 ### Quizzes
 
