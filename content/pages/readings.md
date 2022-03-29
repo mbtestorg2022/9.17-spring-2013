@@ -98,7 +98,7 @@ Rinberg, D., and H. Davidowitz. "[Do Cockroaches 'Know' About Fluid Dynamics?](h
 {{< tdopen >}}
 
 
-Hubel, David H. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Impulses, Synapses and Circuits." (PDF)](https://epdf.pub/eye-brain-and-vision.html) _Eye, Brain, and Vision_. W. H. Freeman, 1995, pp. 12–31. ISBN: 9780716760092. ([Online version](https://epdf.pub/eye-brain-and-vision.html))
+Hubel, David H. ["Impulses, Synapses and Circuits." (PDF)](https://epdf.pub/eye-brain-and-vision.html) _Eye, Brain, and Vision_. W. H. Freeman, 1995, pp. 12–31. ISBN: 9780716760092. ([Online version](https://epdf.pub/eye-brain-and-vision.html))
 
 Kolb, Bryan, and Ian Q. Whishaw. "How Do Neurons Convey Information?" Chapter 4 in _Introduction to Brain and Behavior_. Worth Publishers, 2000, pp 123–37. ISBN: 9780716751694.
 
